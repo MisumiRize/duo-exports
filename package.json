@@ -1,0 +1,28 @@
+{
+  "name": "duo-exports",
+  "version": "0.0.1",
+  "description": "Duo plugin to export variable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MisumiRize/duo-exports.git"
+  },
+  "keywords": [
+    "duo",
+    "plugin",
+    "exports"
+  ],
+  "author": "Rize MISUMI <r@ayase-e.li>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MisumiRize/duo-exports/issues"
+  },
+  "homepage": "https://github.com/MisumiRize/duo-exports",
+  "devDependencies": {
+    "duo": "^0.8.8",
+    "tap": "^0.4.13"
+  }
+}
